@@ -30,7 +30,7 @@ DOMAIN,static.cloudflareinsights.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
 DOMAIN,th.bing.com
-DOMAIN-SUFFIX,bingviz.com
+DOMAIN,sapphire.bingviz.com
 DOMAIN-SUFFIX,algolia.net
 DOMAIN-SUFFIX,sapphire.microsoftapp.net
 DOMAIN-SUFFIX,api.microsoftapp.net
