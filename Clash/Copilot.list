@@ -29,8 +29,10 @@ DOMAIN,www.bingapis.com
 DOMAIN,static.cloudflareinsights.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
+DOMAIN,th.bing.com
 DOMAIN-SUFFIX,bingviz.com
 DOMAIN-SUFFIX,algolia.net
+DOMAIN-SUFFIX,sapphire.microsoftapp.net
 DOMAIN-SUFFIX,api.microsoftapp.net
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bing-shopping.microsoft-falcon.io
